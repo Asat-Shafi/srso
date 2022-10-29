@@ -1,0 +1,342 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.top{
+    width: 100%;
+    height: 400vh;
+    background-color:rgb(228, 225, 225)
+}
+.top1{
+    display: flex;
+    width: 100%;
+    height: 60px;
+    background-color: black;
+    color: aliceblue;
+    font-family: 'Inter', sans-serif;
+font-family: 'Oleo Script Swash Caps', cursive;
+font-family: 'Radio Canada', sans-serif;
+font-family: 'Roboto Flex', sans-serif;
+
+}
+.icon{
+    display: flex;
+    position: relative;left: 80px;
+}
+.phone{
+    margin: 12;
+    position: relative;left: 10px; 
+    margin-top: 20px; 
+}
+.masage{
+    margin: 20px;
+    position: relative;left: 20px;
+}
+
+.Covid_1{
+    position: relative;left: 200px;
+margin-top: 25px;
+color:#e09e25;
+
+}
+.social a{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 2px solid #e09e25;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 17px;
+     color:#e09e25;
+    cursor: pointer;
+    margin-left: 20px;
+    background-color: rgba(255, 255, 255, 0.1);
+    text-decoration: none;
+    margin-top: 10%;
+    }
+    
+    .social a:hover{
+background-color:#e7ab5291;
+        
+    }
+.social{
+position: relative;left: 500px;
+}
+.srso{
+ position: relative;
+ top:50px;
+    display: flex;
+ justify-content: center;
+    color: #e09e25;
+    font-family: 'Inter', sans-serif;
+font-family: 'Nunito Sans', sans-serif;
+font-family: 'Oleo Script Swash Caps', cursive;
+font-family: 'Radio Canada', sans-serif;
+font-family: 'Roboto Flex', sans-serif;
+font-family: 'Roboto Mono', monospace;
+}
+
+ h1{
+     left: 12px;
+     position: relative;
+     top: 25px;
+ }
+ .home1{
+    width: 100%;
+    height: 60px;
+    margin-top: 1%;
+ }
+
+ .container18 a{
+     text-decoration: none;
+     margin-left: 60px;
+     font-family: 'Inter', sans-serif;
+color: black;
+ }
+
+ li{
+     margin-top: 40px;
+ }
+ hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-top-width: 1px;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-top-style: solid;
+    border-top-color: #CCC;
+  
+
+  }
+.parent{
+    display: flex;
+    width: 98%;
+    height: 90vh;
+    margin: 20px;
+    text-align: center;
+
+}
+
+.childrn1{
+    width: 300px;
+    height: 60vh;
+    margin: 10px;
+  text-align: left;
+  top: -20px;
+  position: relative;left: 70px;   
+}
+
+.childrn2{
+    width: 450px;
+    margin: 10px;
+    position: relative;left: 94px;
+    height: 60vh;
+    top: -20px;
+}
+.childrn3{
+    width: 350px;
+    height: 50vh;
+    background-color: white;
+    margin: 10px;
+    position: relative;left: 80px;
+    overflow: hidden;
+    text-align: left;
+    top: -20px;
+    display: block;
+}
+
+
+.h21{
+ font-size: 24px;
+ font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+margin-right: 180px;
+}
+
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased
+    }
+    .more {
+        color: #e09e25;
+        display: inline-block;
+        font-size: 14px;
+        font-weight: 700;
+        padding: 10px 15px;
+        }
+        .testimonial-slider .owl-nav > div {
+            border: 2px solid #666;
+            color: #666
+        }
+.ourTeam h2 {
+    color: #e09e25;
+    font-size: 20px;
+    margin-top: 10%;
+}
+.ourTeam .i {
+    margin-top: 30px
+}
+
+.ourTeam .i .c {
+   width:212.5px;
+   background-attachment: scroll;
+   background-color: #f7bf6a;
+   background-image: none;
+   background-repeat: repeat;
+   background-position: 0 0;
+ height: auto;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    position: relative;
+    overflow: hidden;
+    padding-bottom: 110px
+}
+
+.ourTeam .i .c .wrap {
+    position: relative}
+.ourTeam .i .c .wrap .info {
+    padding: 30px 0;
+    position: absolute;
+    top: 100%;
+    width: 100%}
+.hr1{
+    width: 10%;
+    margin-left: 45%;
+    border-top-style: solid;
+    border-top-color:#e09e25;
+}
+.footer1{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    margin-bottom: 60px;
+}
+.srso1{
+    
+    position: relative;
+    top:40px;
+ margin-right: 800px;
+
+       display: flex;
+    justify-content: center;
+       color: #e09e25;
+       font-family: 'Inter', sans-serif;
+   font-family: 'Nunito Sans', sans-serif;
+   font-family: 'Oleo Script Swash Caps', cursive;
+   font-family: 'Radio Canada', sans-serif;
+   font-family: 'Roboto Flex', sans-serif;
+   font-family: 'Roboto Mono', monospace;
+}
+.img10{
+    margin-top: 5%;
+    margin-left: 200px;
+}
+.location{
+     margin-left: 200px;
+     color: white;
+     margin-top: 20px;
+}
+.div2{
+    margin-left: 450px;
+    position: relative;bottom: 280px;
+    color:aliceblue;
+}
+.div3{
+    margin-left: 700px;
+    position: relative;bottom: 440px;
+    color:aliceblue;
+}
+.div4{
+    margin-left: 1000px;
+    position: relative;bottom: 580px;
+    color:aliceblue;
+}
+.imgfooter1 {
+    margin-left: 100px;
+    position: relative;bottom: 400px;
+
+max-width: 100%;
+    }
+    .SDMS_logo{
+        position: relative;bottom: 200px;
+        margin-left: 600px;}
+    .and{
+        text-align: center;}
+      */
+     .section {
+       padding: 40px 0;
+     } 
+ .parentsrso{
+     display: flex;
+     width: 90%;
+     height: 20vh;
+     justify-content: space-around;
+ }
+ .parentsrso1{
+     width: 1000px;
+     height: 50vh;
+     position: relative;bottom: 200px;
+     margin: 15px;
+ }
+ .parentsrso2{
+    display: flex;
+    width: 90%;
+    height: 50vh;
+}
+.parentsrso3{
+    width: 1000px;
+    height: 50vh;
+    }
+.imgtext1{
+width: 400px;
+height: 100px ;
+color: #000;
+    background: #fcefb3;
+    font-size: 18px;font-weight: 600;}
+.imgdiv1{ margin-top: 70px;}
+.imgdiv11{ margin-top: 3px; }
+.imgdiv12{ margin-top: 4px;}
+
+.manetex11{
+position: relative;bottom: 210px;
+text-align: center ;
+color: #e09e25;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;}
+.underline {
+    background: #e09e25 none repeat scroll 0 0;
+    height: 2px; margin: 0 auto; width: 100px;
+    position: relative;bottom: 210px; }
+    .cobra{
+        background-color:rgb(218, 220, 224);;
+        width: 100%;height: 30vh;
+        position: relative;top: 40px; display: flex;}
+    .cobra1{
+        margin: 15px;
+        position: relative;left: 300px;
+        position: relative;top: 17px; top: 50px;}
+    .laste20{
+        position: absolute;left: 600px;}
+    .srso11{
+        position: relative;top: 40px; margin-left: 230px;}
+
+.shaheenssss{
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        border: 1px solid #e09e25;
+    display: inline-block;position: absolute;left: 10px;
+    margin-left: 11%;top: 2760px;}  
